@@ -12,7 +12,6 @@
 - 🎓 CSE Undergraduate at Parul Institute of Engineering & Technology
 - 🌾 Building AI-powered solutions for Agriculture & Sustainability
 - ☁️ Exploring Microsoft Azure, AI Foundry & Cloud Technologies
-- 🧠 Preparing for GATE (CS + DA)
 - 💡 Love participating in Hackathons and Open Source
 - 📈 Solving DSA problems regularly on LeetCode & CodeChef
 - 🌌 Space enthusiast fascinated by satellite technology and Earth Observation
@@ -28,8 +27,6 @@
   - Satellite Image Processing
 
 - 🤖 Azure AI Foundry Projects
-
-- 📚 GATE CS & DA Preparation
 
 ---
 
