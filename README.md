@@ -115,8 +115,6 @@
 
 ## 🌍 Connect with Me
 
-## 🌍 Connect with Me
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
