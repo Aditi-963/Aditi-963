@@ -77,23 +77,23 @@
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-🌾 **CropOrbit AI**
+ **CropOrbit AI**
 > Precision Farming Powered from Space using Satellite Imagery & AI
 
-🤖 **Smart Meeting Assistant**
+ **Smart Meeting Assistant**
 > Azure AI Foundry based multilingual meeting assistant
 
-🚨 **AlertNET**
+ **AlertNET**
 > AI-powered Community Emergency Alert System
 
-🌍 **Bharat Darshan**
+ **Bharat Darshan**
 > Intelligent Travel Recommendation Platform
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -113,7 +113,7 @@
 
 ---
 
-## 🌍 Connect with Me
+##  Connect with Me
 
 <p align="center">
 
@@ -151,8 +151,8 @@
 
 ## 💭 Quote I Live By
 
-> *"The best way to predict the future is to build it."* 🚀
+> *"The best way to predict the future is to build it."* 
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
