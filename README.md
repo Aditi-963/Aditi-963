@@ -1,36 +1,36 @@
 # Hi there, I'm Aditi Rajput! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
-🎓 B.Tech Computer Science Engineering Student  
-💻 AI • Full Stack Development • Cloud Computing • Competitive Programming  
-🚀 Passionate about solving real-world problems with AI and Space Technology  
-🌱 Always learning something new and building impactful projects
+ B.Tech Computer Science Engineering Student  
+ AI • Full Stack Development • Cloud Computing • Competitive Programming  
+ Passionate about solving real-world problems with AI and Space Technology  
+ Always learning something new and building impactful projects
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 CSE Undergraduate at Parul Institute of Engineering & Technology
-- 🌾 Building AI-powered solutions for Agriculture & Sustainability
-- ☁️ Exploring Microsoft Azure, AI Foundry & Cloud Technologies
-- 💡 Love participating in Hackathons and Open Source
-- 📈 Solving DSA problems regularly on LeetCode & CodeChef
-- 🌌 Space enthusiast fascinated by satellite technology and Earth Observation
+-  CSE Undergraduate at Parul Institute of Engineering & Technology
+-  Building AI-powered solutions for Agriculture & Sustainability
+-  Exploring Microsoft Azure, AI Foundry & Cloud Technologies
+-  Love participating in Hackathons and Open Source
+-  Solving DSA problems regularly on LeetCode & CodeChef
+-  Space enthusiast fascinated by satellite technology and Earth Observation
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
-- 🌾 **CropOrbit AI**
+-  **CropOrbit AI**
   - AI-Driven Crop Type Detection
   - Moisture Stress Analysis
   - Smart Irrigation Advisory
   - Satellite Image Processing
 
-- 🤖 Azure AI Foundry Projects
+-  Azure AI Foundry Projects
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Machine Learning
 - Deep Learning
@@ -42,7 +42,7 @@
 
 ---
 
-## 💼 Tech Stack
+##  Tech Stack
 
 ### Languages
 
