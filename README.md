@@ -3,7 +3,7 @@
  B.Tech Computer Science Engineering Student  
  AI • Full Stack Development • Cloud Computing • Competitive Programming  
  Passionate about solving real-world problems with AI and Space Technology  
- Always learning something new and building impactful projects for good
+ Always learning something new and building impactful projects
 
 ---
 
