@@ -1,7 +1,7 @@
 # Hi there, I'm Aditi Rajput! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
  B.Tech Computer Science Engineering Student  
- AI • Full Stack Development • Cloud Computing • Compettive Programming  
+ AI • Full Stack Development • Cloud Computing • Competitive Programming  
  Passionate about solving real-world problems with AI and Space Technology  
  Always learning something new and building impactful projects
 
