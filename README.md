@@ -36,7 +36,6 @@
 - Deep Learning
 - FastAPI
 - React
-- Azure AI Services
 - System Design
 - Data Structures & Algorithms
 
