@@ -21,7 +21,7 @@
 ##  Currently Working On
 
 -  **CropOrbit AI**
-  - AI-Driven Crop Type Detection
+  - AI-Driven Crop Type Detections
   - Moisture Stress Analysis
   - Smart Irrigation Advisory
   - Satellite Image Processing
