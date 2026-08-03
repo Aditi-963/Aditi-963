@@ -81,9 +81,6 @@
  **CropOrbit AI**
 > Precision Farming Powered from Space using Satellite Imagery & AI
 
- **Smart Meeting Assistant**
-> Azure AI Foundry based multilingual meeting assistant
-
  **AlertNET**
 > AI-powered Community Emergency Alert System
 
