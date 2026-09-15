@@ -26,19 +26,6 @@
   - Smart Irrigation Advisory
   - Satellite Image Processing
 
--  Azure AI Foundry Projects
-
----
-
-##  Currently Learning
-
-- Machine Learning
-- Deep Learning
-- FastAPI
-- React
-- System Design
-- Data Structures & Algorithms
-
 ---
 
 ##  Tech Stack
