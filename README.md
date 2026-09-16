@@ -132,7 +132,7 @@
 
 ---
 
-## 💭 Quote which I Live By 
+## 💭 Quote I Live By 
 
 > *"The best way to predict the future is to build it."* 
 
