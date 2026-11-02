@@ -1,4 +1,4 @@
-# Hi there, I'm Aditi Rajput! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+# Hi there, I'm Aditi Rajput! 
 
  B.Tech Computer Science Engineering Student  
  AI - Full Stack Development - Cloud Computing - Competitive Programming
