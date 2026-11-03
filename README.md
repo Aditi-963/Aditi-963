@@ -4,7 +4,7 @@
  AI - Full Stack Development - Cloud Computing - Competitive Programming
  
  Passionate about solving real-world problems with AI and Space Technology  
- Always learning something new and building impactful projectsss.
+ Always learning something new and building impactful projects.
 
 ---
 
